@@ -6,6 +6,8 @@
 MedTech Chain 2.0, is the second version of MedTech Chain 1.0, which is a querying platform for authorized cybersecurity researchers to run statistical queries on medical device data. With the new version, a homomorphic encryption layer was added in order to protect the values of the data while still providing useful results to the researchers. With this change, new types of informative queries were added with the support of homomorphic encryption as well.
 
 
+▶️ **Watch the demo video**  
+Click the thumbnail below to open the video:
 [![Watch the demonstration video!](../thumbnail.png)](../demo.mp4)
 
 ### Homomorphic Encryption
